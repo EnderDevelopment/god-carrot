@@ -1,0 +1,5 @@
+name: GodCarrot
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+description: Adds a powerful craftable God Carrot.
